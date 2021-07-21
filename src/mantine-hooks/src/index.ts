@@ -10,6 +10,7 @@ export { useFocusTrap } from './use-focus-trap/use-focus-trap';
 export { useForceUpdate } from './use-force-update/use-force-update';
 export { useForm } from './use-form/use-form';
 export { useId } from './use-id/use-id';
+export { useIdle } from './use-idle/use-idle';
 export { useInterval } from './use-interval/use-interval';
 export { useIsomorphicEffect } from './use-isomorphic-effect/use-isomorphic-effect';
 export { useListState } from './use-list-state/use-list-state';
